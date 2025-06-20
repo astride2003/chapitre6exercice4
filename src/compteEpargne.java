@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class compteEpargne {
+public class compteEpargne extends compteBancaire{
+    double tauxInteret;
 }

@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class COD {
+public class Cod extends compteBancaire{
+    int duree;
 }
